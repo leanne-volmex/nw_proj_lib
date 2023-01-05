@@ -44,6 +44,7 @@ Run `client` on another terminal:
 ## Fundamentals
 
 [Network Protocols](https://www.youtube.com/watch?v=E5bSumTAHZE&t=259s)
+![Network Protocols](protocols.png)
 
 HTTP (Hypertext Transfer Protocol) is a networking protocol used for exchanging web content (e.g. HTML pages, images, videos) over the internet. It is a stateless protocol, meaning that each request is independent of previous requests. HTTP uses a simple request/response model, where a client sends a request to a server and the server sends a response back to the client.
 
