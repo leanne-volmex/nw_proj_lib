@@ -5,7 +5,8 @@ This repo contains the asynchronous protocol-based
 server applications using C++ and
 [Boost::Asio](https://www.boost.org/doc/libs/1_81_0/doc/html/boost_asio.html).
 
-In this repo I seek to connect the app with another of my library
+In this repo I seek to connect the app with another external [library](git@github.com:leanne-volmex/mylib.git)
+
 ## Dependencies
 
 - C++11 or above
